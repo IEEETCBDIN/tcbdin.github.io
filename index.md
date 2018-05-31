@@ -1,8 +1,19 @@
-## Welcome to IEEE TCBD Special Interest Group on Big Data Intelligent Networking
+## Welcome to IEEE Technical Committee on Big Data
+## Special Interest Group on Big Data Intelligent Networking
+Chair: Ruidong Li, National Institute of Information and Communications Technology (NICT), Japan, Email: lrd@nict.go.jp \
+Vice-Chair: Houbing Song, Embry-Riddle Aeronautical University, USA, Email: Houbing.Song@erau.edu \
+Vice-Chair: Xiaoming Fu, Gottingen University, Germany, Email: fu@cs.uni-goettingen.de \
+Vice-Chair: Kui Wu, University of Victoria, Canada, Email: wkui@uvic.ca \
+Vice-Chair: Payam Barnaghi, University of Surrey, UK, Email: p.barnaghi@surrey.ac.uk \
+Vice-Chair: Zhou Su, Shanghai University, China, Email: zhousu@ieee.org \
+Vice-Chair: Constandinos Mavromoustakis, University of Nicosia, Cyprus, Email: mavromoustakis.c@unic.ac.cy \
+Advisor: Jiannong Cao, Hong Kong Polytechnic University, Hongkong, Email: csjcao@comp.polyu.edu.hk \
+Advisor: Hsiao-Hwa Chen, National Cheng Kung University, Taiwan, Email: hshwchen@mail.ncku.edu.tw \
+Advisor: Wenjing Lou, Virginia Tech, USA, Email: wjlou@vt.edu \
+Advisor: Chonggang Wang, Interdigital, USA, Email: cgwang@ieee.org \
+Advisor: Jie Wu, Temple University, USA, Email: wujie@temple.edu \
+Advisor: Hitoshi Asaeda, National Institute of Information and Communications Technology (NICT), Japan, Email: asaeda@nict.go.jp \
 
-You can use the [editor on GitHub](https://github.com/IEEETCBDIN/tcbdin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
