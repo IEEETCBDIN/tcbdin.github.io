@@ -1,5 +1,5 @@
 ## Welcome to IEEE Technical Committee on Big Data
-### SIG on Big Data Intelligent Networking
+## SIG on Big Data Intelligent Networking
 Chair: Ruidong Li, National Institute of Information and Communications Technology (NICT), Japan, Email: lrd@nict.go.jp \
 Vice-Chair: Houbing Song, Embry-Riddle Aeronautical University, USA, Email: Houbing.Song@erau.edu \
 Vice-Chair: Xiaoming Fu, Gottingen University, Germany, Email: fu@cs.uni-goettingen.de \
@@ -12,12 +12,16 @@ Advisor: Hsiao-Hwa Chen, National Cheng Kung University, Taiwan, Email: hshwchen
 Advisor: Wenjing Lou, Virginia Tech, USA, Email: wjlou@vt.edu \
 Advisor: Chonggang Wang, Interdigital, USA, Email: cgwang@ieee.org \
 Advisor: Jie Wu, Temple University, USA, Email: wujie@temple.edu \
-Advisor: Hitoshi Asaeda, National Institute of Information and Communications Technology (NICT), Japan, Email: asaeda@nict.go.jp \
+Advisor: Hitoshi Asaeda, National Institute of Information and Communications Technology (NICT), Japan, Email: asaeda@nict.go.jp 
 
+### Scope and Objectives
 
-### Markdown
+Big data are transforming the world and open the era of the new paradigm for science discovery through data-driven approach. This paradigm also brings out great influences on networking research area. The current networks are designed based on the static end-to-end design principle, and their complexity has dramatically increased in the past several decades, which hinders the efficient and intelligent provision of big data services and makes it important and challenging to design network applications based on big data. That is, both networking for big data (e.g., collection, processing, analysis, and visualization) and big data analytics for networking applications (e.g. monitoring, routing, caching, and security) show great challenges for industries and academia.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Regarding networking for big data, the big data mining and learning applications depend on the efficient and effective support from the underneath networking protocols. Big data are collected from small devices, processed/cached/analyzed in the network, and finally stored at the servers or clouds. The big data applications involve the data sources from different geographically distributed data centers or in-network storages. Huge amount of users efficiently and securely search, discover and fetch the big data from the data centers or in-network storages. Regarding big data analytics for networking, critical applications such as network monitoring, network security or dynamic network management require fast mechanisms for on-line analysis of thousands of events per second, as well as efficient techniques for off-line analysis of massive historical data. The applications making networking decisions (e.g. routing, caching, and security) from the ever-growing amount of measurement data is becoming a big challenge, which remains poorly understood and investigated. Furthermore, big data analytic techniques to characterize, detect, locate and analyze complex behaviors bring out much burden for networking, and thus the smart and scalable approaches must be conceived to enable them to be practical. The analysis on the network status data shows the great potential to improve the performance of networking and applications.
+
+In summary, this SIG will focus on the technical challenges and applications of networking for and by big data. We envision that the combination of big data with networking will provide more efficient support for big data applications and enable more intelligent networking applications. The areas of interests include, but are not limited to, the following:
+
 
 ```markdown
 Syntax highlighted code block
