@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to IEEE TCBD Special Interest Group on Big Data Intelligent Networking
 
 You can use the [editor on GitHub](https://github.com/IEEETCBDIN/tcbdin.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
